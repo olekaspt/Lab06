@@ -6,7 +6,7 @@ The objective of this Lab is to create an implementation of a Binary Search Tree
 ## Task 1  Implement a Binary Search Tree
 
 Implement the Binary Search Tree (BST) as a Template, so it can store any type.  In the requirements below this Template is referred to as <ITEM>
-Utilize smart pointers (use std::shared_pointer) for any pointers needed.
+Utilize smart pointers (use std::shared_pointer) as I want a linked-based implementation.
 
 Create a Tree Node class that will be used in the BST that uses templates.  This will need the methods on it return value, and get left and right child.
 
