@@ -15,6 +15,8 @@ Create a Tree Node class that will be used in the BST that uses templates.  This
 
 Create a Binary Search Tree class with the following methods.
 
+Assumption, assume no duplicates will be added.
+
 *  Constructor
 *  Destructor
 *  Insert – accepts a <ITEM> that is created outside this class.  This will find the correct place to insert the node and insert it and add a node as well.
