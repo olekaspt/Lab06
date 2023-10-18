@@ -11,7 +11,7 @@ Follow lab standards here - https://github.com/olekaspt/LabStandards
 Implement the Binary Search Tree (BST) as a Template, so it can store any type.  In the requirements below this Template is referred to as <ITEM>
 Utilize smart pointers (use std::shared_pointer) as I want a linked-based implementation.
 
-Create a Tree Node class that will be used in the BST that uses templates.  This will need the methods on it return value, and get left and right child.
+Create a "Node" class that will be used in the BST that uses templates.  The "BinaryNode" from the slide deck can be used as inspiration.  This will need the methods on it return value, and get left and right child.
 
 Create a Binary Search Tree class with the following methods.
 
