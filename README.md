@@ -6,6 +6,8 @@ The objective of this Lab is to create an implementation of a Binary Search Tree
 ## Task 0
 Follow lab standards here - https://github.com/olekaspt/LabStandards
 
+For this lab, since all the application libary code is template code, do not create a shared library.  But it is expected to have a main executable as well as test executable.
+
 ## Task 1  Implement a Binary Search Tree
 
 Implement the Binary Search Tree (BST) as a Template, so it can store any type.  In the requirements below this Template is referred to as <ITEM>
